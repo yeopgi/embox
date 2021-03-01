@@ -10,5 +10,6 @@
 "cd /tmp",
 //"pjlib_util",
 //"pjlib_util_test",
-"pjmedia_test",
+//"pjmedia_test",
+"pjnath_test",
 "tish",
